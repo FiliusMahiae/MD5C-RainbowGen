@@ -26,7 +26,7 @@
 2. Open the script and configure the salt (default: `$1$00000000`).
 3. Run the script:
    ```bash
-   python rainbowgen.py
+   python MD5C-RainbowGen.py
    ```
 4. The rainbow table will be saved as `hashed_passwords_with_salt.txt`.
 
